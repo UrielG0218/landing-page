@@ -129,3 +129,27 @@ img {
     font-weight: 900;
     padding-top: 24px;
 }
+
+.action-container {
+    display: flex;
+    justify-content: center;
+    padding: 36px;
+}
+
+.call-action {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 8px;
+    display: inline-flex;
+    padding: 36px;
+    gap: 36px;
+}
+
+.action-header {
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.wborder {
+    border: 2px solid white;
+}
