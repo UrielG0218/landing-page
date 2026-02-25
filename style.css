@@ -133,7 +133,7 @@ img {
 .action-container {
     display: flex;
     justify-content: center;
-    padding: 36px;
+    padding: 64px;
 }
 
 .call-action {
@@ -152,4 +152,9 @@ img {
 
 .wborder {
     border: 2px solid white;
+}
+
+.footer {
+    align-items: center;
+    padding: 36px;
 }
