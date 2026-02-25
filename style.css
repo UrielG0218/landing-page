@@ -41,6 +41,10 @@ img {
     color: #f9faf8;
 }
 
+.hero {
+    padding-bottom: 36px;
+}
+
 .header {
     display: flex;
     justify-content: space-around;
